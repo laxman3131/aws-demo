@@ -1,8 +1,9 @@
-Demo of an app created in AWS
+Demo of an app created in AWS env
 
 
 
-Create a ssh connection to EC2
+Step 1: Create a ssh connection to EC2
 
+Step 2: Run the following commands:
 ```cd ~/apps```
 ```unzip -o backend.zip -d backend```
