@@ -1,4 +1,4 @@
-Demo of an app created in AWS env
+Demo of an simple app created in EC2 and using lambda functions authenticated via IAM roles.
 
 
 
