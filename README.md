@@ -1,4 +1,4 @@
-Demo of an simple app created in EC2 and using lambda functions authenticated via IAM roles.
+Demo of an simple app created in EC2 instance using lambda function authenticated via IAM roles.
 
 
 
