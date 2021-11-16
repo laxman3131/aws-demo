@@ -13,7 +13,7 @@
   "author": "Laxman Singh",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.653.0",
+    "aws-sdk": "^2.814.0",
     "express": "^4.17.1"
   }
 }
